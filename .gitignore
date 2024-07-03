@@ -1,0 +1,28 @@
+# Ignore class files
+*.class
+
+# Ignore package files
+*.jar
+*.war
+*.ear
+
+# Ignore compiled Java binaries
+*.class
+*.jar
+*.war
+*.ear
+
+# Ignore Maven's target directory
+/target/
+
+# Ignore Gradle's build directory
+/build/
+
+# Ignore IntelliJ IDEA project files
+*.iml
+.idea/
+
+# Ignore Eclipse project files
+.project
+.classpath
+.settings/
