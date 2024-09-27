@@ -40,6 +40,6 @@ The GUI interface consists of various components and functionalities to manage p
 If you encounter any issues or have any questions regarding the Car Parking Management System, 
 please contact:-
 Name:- OM PATIL    
-Email:- 104682059@student.swin.edu.au
+Email:- officialompatil@gmail.com
 
 
